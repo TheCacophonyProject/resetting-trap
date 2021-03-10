@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name resetting-trap)(type KiCad)(uri ${KIPRJMOD}/libraries/resetting-trap.pretty)(options "")(descr ""))
+)

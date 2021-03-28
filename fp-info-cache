@@ -1,4 +1,4 @@
-18698134385557036
+18783333515004182
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81703,38 +81703,31 @@ varistor SIOV
 0
 2
 2
-battery-dc-dc-converter
-hole-pad
-
-
-0
-1
-1
-scooter-ps
+resetting-trap
 MWSA1004
 
 
 0
 2
 2
-scooter-ps
+resetting-trap
 MWSA1205
 
 
 0
 2
 2
-scooter-ps
-mousebite
+resetting-trap
+logo
 
 
 0
-6
 0
-scooter-ps
-xt60pw-m
+0
+resetting-trap
+switch
 
 
 0
-2
-2
+3
+3

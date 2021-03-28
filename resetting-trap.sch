@@ -1485,14 +1485,12 @@ Text Label 3550 1250 2    60   ~ 0
 PIR
 Text Label 3550 1550 2    60   ~ 0
 Servo_1
-Text Label 3550 1650 2    60   ~ 0
+Text Label 3550 1950 2    60   ~ 0
 Motor_Speed
 Text Label 3550 1750 2    60   ~ 0
 Relay_1
 Text Label 3550 1850 2    60   ~ 0
 Relay_2
-Text Label 3550 1950 2    60   ~ 0
-9(**)
 Text Label 4750 1550 0    60   ~ 0
 Motor_Sense
 Text Label 4750 1450 0    60   ~ 0
@@ -1617,14 +1615,12 @@ Text Label 1150 1050 2    60   ~ 0
 Reset
 Text Label 1150 1550 2    60   ~ 0
 Servo_1
-Text Label 1150 1650 2    60   ~ 0
+Text Label 1150 1950 2    60   ~ 0
 Motor_Speed
 Text Label 1150 1750 2    60   ~ 0
 Relay_1
 Text Label 1150 1850 2    60   ~ 0
 Relay_2
-Text Label 1150 1950 2    60   ~ 0
-9(**)
 Wire Wire Line
 	1150 850  1200 850 
 Wire Wire Line
@@ -1945,8 +1941,6 @@ Wire Wire Line
 	4650 5000 4600 5000
 Wire Wire Line
 	4600 5000 4600 5050
-Text Label 4550 5000 2    50   ~ 0
-Feeder
 Wire Wire Line
 	4550 5000 4600 5000
 Connection ~ 4600 5000
@@ -2057,4 +2051,10 @@ Text Label 1150 1450 2    50   ~ 0
 6V_Enable
 Text Label 3550 1450 2    50   ~ 0
 6V_Enable
+Text Label 4550 5000 2    50   ~ 0
+Feeder
+Text Label 1150 1650 2    50   ~ 0
+Feeder
+Text Label 3550 1650 2    50   ~ 0
+Feeder
 $EndSCHEMATC

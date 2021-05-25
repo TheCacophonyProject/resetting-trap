@@ -2267,10 +2267,10 @@ Text GLabel 2300 1450 2    50   Input ~ 0
 BAIT_DELAY
 Text GLabel 2300 1550 2    50   Input ~ 0
 Lin_Act_Sense
-Text GLabel 2300 1650 2    50   Input ~ 0
-TRIGGER_BAIT
 Text GLabel 2300 1750 2    50   Input ~ 0
-12(MISO)
+TRIGGER_BAIT
+Text GLabel 2300 1650 2    50   Input ~ 0
+Status_LED
 Text GLabel 2300 1850 2    50   Input ~ 0
 Servo_2
 Text GLabel 2300 1950 2    50   Input ~ 0
@@ -2358,10 +2358,10 @@ Text GLabel 4750 1450 2    50   Input ~ 0
 BAIT_DELAY
 Text GLabel 4750 1550 2    50   Input ~ 0
 Lin_Act_Sense
-Text GLabel 4750 1650 2    50   Input ~ 0
-TRIGGER_BAIT
 Text GLabel 4750 1750 2    50   Input ~ 0
-12(MISO)
+TRIGGER_BAIT
+Text GLabel 4750 1650 2    50   Input ~ 0
+Status_LED
 Text GLabel 4750 1850 2    50   Input ~ 0
 Servo_2
 Text GLabel 4750 1950 2    50   Input ~ 0

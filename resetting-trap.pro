@@ -1,4 +1,4 @@
-update=Wed 10 Mar 2021 09:14:25 NZDT
+update=Tue 06 Apr 2021 14:28:57 NZST
 version=1
 last_client=kicad
 [cvpcb]
@@ -38,6 +38,7 @@ MinHoleToHole=0.25
 TrackWidth1=0.25
 TrackWidth2=0.5
 TrackWidth3=1
+TrackWidth4=2
 ViaDiameter1=0.6
 ViaDrill1=0.4
 dPairWidth1=0.2

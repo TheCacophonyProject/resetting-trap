@@ -802,7 +802,7 @@ U 1 1 609B60F7
 P 650 2850
 F 0 "H1" H 750 2896 50  0000 L CNN
 F 1 "MountingHole" H 750 2805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 650 2850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 650 2850 50  0001 C CNN
 F 3 "~" H 650 2850 50  0001 C CNN
 	1    650  2850
 	1    0    0    -1  
@@ -813,7 +813,7 @@ U 1 1 609B72B9
 P 650 3100
 F 0 "H2" H 750 3146 50  0000 L CNN
 F 1 "MountingHole" H 750 3055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 650 3100 50  0001 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 650 3100 50  0001 C CNN
 F 3 "~" H 650 3100 50  0001 C CNN
 	1    650  3100
 	1    0    0    -1  

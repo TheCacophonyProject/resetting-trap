@@ -2386,9 +2386,9 @@ Wire Wire Line
 	4750 1950 4700 1950
 Text GLabel 1150 5850 0    50   Input ~ 0
 Lin_Act_Forward
-Text GLabel 2250 5950 0    50   Input ~ 0
-Lin_Act_PWM
 Text GLabel 2250 6600 0    50   Input ~ 0
+Lin_Act_PWM
+Text GLabel 2250 5950 0    50   Input ~ 0
 Lin_Act_Sense
 Text GLabel 3400 5850 0    50   Input ~ 0
 Lin_Act_Back

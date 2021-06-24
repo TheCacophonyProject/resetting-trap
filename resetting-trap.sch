@@ -2261,9 +2261,9 @@ Text GLabel 2300 1050 2    50   Input ~ 0
 Reset_R
 Text GLabel 2300 1250 2    50   Input ~ 0
 A3
-Text GLabel 2300 1350 2    50   Input ~ 0
-BAIT_DURATION
 Text GLabel 2300 1450 2    50   Input ~ 0
+BAIT_DURATION
+Text GLabel 2300 1350 2    50   Input ~ 0
 BAIT_DELAY
 Text GLabel 2300 1550 2    50   Input ~ 0
 Lin_Act_Sense
@@ -2352,9 +2352,9 @@ Text GLabel 4750 1050 2    50   Input ~ 0
 Reset_R
 Text GLabel 4750 1250 2    50   Input ~ 0
 A3
-Text GLabel 4750 1350 2    50   Input ~ 0
-BAIT_DURATION
 Text GLabel 4750 1450 2    50   Input ~ 0
+BAIT_DURATION
+Text GLabel 4750 1350 2    50   Input ~ 0
 BAIT_DELAY
 Text GLabel 4750 1550 2    50   Input ~ 0
 Lin_Act_Sense

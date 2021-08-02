@@ -6554,7 +6554,7 @@
   (gr_text "12V\nPower" (at 98.4 119.9 -90) (layer F.SilkS)
     (effects (font (size 2.5 2.5) (thickness 0.4)))
   )
-  (gr_text "Resetting Trap V1.0" (at 160.9 85.1) (layer F.SilkS) (tstamp 60AD3F0A)
+  (gr_text "Resetting Trap V1.1" (at 160.9 85.1) (layer F.SilkS) (tstamp 60AD3F0A)
     (effects (font (size 2 2) (thickness 0.3)))
   )
   (gr_line (start 202 53) (end 217 53) (layer F.SilkS) (width 0.15))

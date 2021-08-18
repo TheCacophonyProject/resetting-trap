@@ -3,4 +3,5 @@
   (lib (name trap-pcb-rescue)(type Legacy)(uri /home/cam/cac/pcb/trap-pcb-nov/trap-pcb/trap-pcb-rescue.lib)(options "")(descr ""))
   (lib (name trap-pcb)(type Legacy)(uri /home/cam/cac/pcb/trap-pcb-nov/trap-pcb/trap-pcb.lib)(options "")(descr ""))
   (lib (name TPS54331)(type Legacy)(uri /home/cam/projects/kicad-templates/buck-TPS54331/TPS54331.lib)(options "")(descr ""))
+  (lib (name resetting-trap-rescue)(type Legacy)(uri ${KIPRJMOD}/resetting-trap-rescue.lib)(options "")(descr ""))
 )

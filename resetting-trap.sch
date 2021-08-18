@@ -2169,7 +2169,7 @@ Wire Wire Line
 Connection ~ 10850 2950
 Text GLabel 1150 1250 0    50   Input ~ 0
 PIR
-Text GLabel 1150 1350 0    50   Input ~ 0
+Text GLabel 1850 1950 2    50   Input ~ 0
 24_Hour
 Text GLabel 1150 1450 0    50   Input ~ 0
 6V_Enable
@@ -2181,7 +2181,7 @@ Text GLabel 1150 1750 0    50   Input ~ 0
 Lin_Act_Forward
 Text GLabel 1150 1850 0    50   Input ~ 0
 Lin_Act_Back
-Text GLabel 1150 1950 0    50   Input ~ 0
+Text GLabel 1150 1350 0    50   Input ~ 0
 Lin_Act_PWM
 Text GLabel 1150 1050 0    50   Input ~ 0
 Reset_L
@@ -2203,10 +2203,8 @@ Text GLabel 1850 1750 2    50   Input ~ 0
 TRIGGER_BAIT
 Text GLabel 1850 1650 2    50   Input ~ 0
 Status_LED
-Text GLabel 1850 1850 2    50   Input ~ 0
+Text GLabel 1150 1950 0    50   Input ~ 0
 Servo_2
-Text GLabel 1850 1950 2    50   Input ~ 0
-10(SS)
 $Comp
 L power:GND #PWR0102
 U 1 1 60A27CF3
@@ -2228,7 +2226,7 @@ Wire Wire Line
 	2700 1100 2700 1150
 Text GLabel 3100 1250 0    50   Input ~ 0
 PIR
-Text GLabel 3100 1350 0    50   Input ~ 0
+Text GLabel 3800 1950 2    50   Input ~ 0
 24_Hour
 Text GLabel 3100 1450 0    50   Input ~ 0
 6V_Enable
@@ -2240,7 +2238,7 @@ Text GLabel 3100 1750 0    50   Input ~ 0
 Lin_Act_Forward
 Text GLabel 3100 1850 0    50   Input ~ 0
 Lin_Act_Back
-Text GLabel 3100 1950 0    50   Input ~ 0
+Text GLabel 3100 1350 0    50   Input ~ 0
 Lin_Act_PWM
 Text GLabel 3100 1050 0    50   Input ~ 0
 Reset_L
@@ -2294,10 +2292,8 @@ Text GLabel 3800 1750 2    50   Input ~ 0
 TRIGGER_BAIT
 Text GLabel 3800 1650 2    50   Input ~ 0
 Status_LED
-Text GLabel 3800 1850 2    50   Input ~ 0
+Text GLabel 3100 1950 0    50   Input ~ 0
 Servo_2
-Text GLabel 3800 1950 2    50   Input ~ 0
-10(SS)
 Wire Wire Line
 	3750 1050 3800 1050
 Wire Wire Line
@@ -2621,7 +2617,7 @@ Wire Wire Line
 	5550 6900 5550 7300
 Connection ~ 5550 7300
 $Comp
-L trap-pcb:+6.8V #PWR0110
+L resetting-trap-rescue:+6.8V-trap-pcb #PWR0110
 U 1 1 60C81407
 P 9800 4000
 F 0 "#PWR0110" H 9800 3850 50  0001 C CNN
@@ -2737,7 +2733,7 @@ Wire Wire Line
 Wire Wire Line
 	5300 3400 5300 3350
 $Comp
-L trap-pcb:+6.8V #PWR0101
+L resetting-trap-rescue:+6.8V-trap-pcb #PWR0101
 U 1 1 60EB84C2
 P 5500 6600
 F 0 "#PWR0101" H 5500 6450 50  0001 C CNN
@@ -2757,7 +2753,7 @@ F 2 "resetting-trap:Toggle_Button_TS-1102S-B-H-B" H 6250 3550 50  0001 C CNN
 F 3 "~" H 6250 3550 50  0001 C CNN
 F 4 "C127509" H 6250 3350 50  0001 C CNN "JLCPCB"
 	1    6250 3350
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 Text GLabel 6900 2000 0    50   Input ~ 0
 Status_LED
@@ -2925,4 +2921,8 @@ Wire Wire Line
 	7150 750  6950 750 
 Connection ~ 7150 750 
 Connection ~ 6950 750 
+Text GLabel 3800 1850 2    50   Input ~ 0
+11
+Text GLabel 1850 1850 2    50   Input ~ 0
+11
 $EndSCHEMATC
